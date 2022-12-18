@@ -4,4 +4,4 @@ This repository has been archived. No new updates will be made to this repositor
 
 ## Repository Management
 ### Commit Signing and Verification
-Commits after December 15th, 2022 are signed and verified. Previous commits remain unchanged, unsigned, and unverified. Please ignore unverified tags for commits before December 15th, 2022.
+All commits made to this repository are required to be signed. Any unsigned commits will be blocked.
